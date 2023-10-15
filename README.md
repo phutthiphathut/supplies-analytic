@@ -1,5 +1,5 @@
 # supplies-analytic
-Exploring Sales Data and Analysis with MongoDB and Python
+#Exploring Sales Data and Analysis with MongoDB and Python
 In this article, we'll walk through the process of exploring sales data and performing data analysis using MongoDB and Python. We'll cover various steps, from setting up the environment to extracting valuable insights from the data. The goal is to showcase how to work with MongoDB, establish secure connections, and derive meaningful information from sales records.
 
 Step 1: Package Installation
